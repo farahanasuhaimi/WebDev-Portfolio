@@ -1,0 +1,42 @@
+:root {
+  --mainColor: #ebebeb;
+  --secondaryColor: rgb(207, 204, 250);
+
+  --borderColor: hsl(231, 81%, 17%);
+
+  --mainText: black;
+  --secondaryText: #0e0b33;
+
+  --buttonColor: black;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  transition: 0.2s;
+  background-image: linear-gradient(
+    120deg,
+    var(--mainColor),
+    var(--secondaryColor)
+  );
+}
+
+/* Helper Class */
+.flex-display {
+  display: flex;
+  align-items: center;
+  padding: 0.5rem;
+}
+
+#home-navbar {
+  display: flex;
+  justify-content: space-around;
+}
+
+.upper-right-navbar ol {
+  margin-left: 1rem;
+}
