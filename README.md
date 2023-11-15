@@ -14,7 +14,7 @@
 
 ### Current portfolio
 
-1. Based on youtube tutorial by Dennis Ivy.
+1. Based on youtube tutorial by Dennis Ivy link: https://www.youtube.com/watch?v=r_hYR53r61M.
 2. Doesn't really has a CTR and content, more about myself.
 
 ### Plan
